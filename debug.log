@@ -1,0 +1,7 @@
+[0801/143137.182:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0801/143137.240:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: 锟杰碉拷锟窖斤拷锟斤拷锟斤拷 (0x6D)
+[0801/160203.665:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0801/160203.675:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: 管道已结束。 (0x6D)
+[0803/113521.978:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: 管道已结束。 (0x6D)
+[0803/170406.464:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0803/170406.478:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: 管道已结束。 (0x6D)
